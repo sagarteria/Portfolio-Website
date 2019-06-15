@@ -1,4 +1,4 @@
-Pull request workflow
+# Pull request workflow
 
 The so-called “PR workflow” used by Godot is common to many projects using Git, and should be familiar to veteran free software contributors. The idea is that only a small number (if any) commit directly to the master branch. Instead, contributors fork the project (i.e. create a copy of it, which they can modify as they wish), and then use the GitHub interface to request a pull from one of their fork’s branches to one branch of the original (often named upstream) repository.
 
